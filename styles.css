@@ -32,13 +32,13 @@ h1{
 }
 
 p{
-	text-align:right;
+	
 	
 }
 
 p > cite{
 
-	padding-left:30px;
-	padding-top:50px;
+	text-align:right;
+	font-style:italic;
 
 }
